@@ -77,12 +77,6 @@ button {
     flex: 1;
 }
 
-button img {
-    width: 26px;
-    color: #fff;
-    margin-right: 10px;
-}
-
 select, input[type="range"] {
     flex: 1;
     color: #fff;
