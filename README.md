@@ -2,6 +2,8 @@
 
 This is a simple and effective Text-to-Speech (TTS) Converter built using JavaScript. It allows users to convert written text into spoken words, leveraging the Web Speech API. This project can be easily integrated into websites or applications to enhance accessibility and provide auditory feedback for users.
 
+![Text-to-Speech Converter](https://github.com/xshshahab/Text_To_Speech/blob/main/Theme.png)
+
 
 ## Features
 
