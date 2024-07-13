@@ -61,3 +61,7 @@ This is a simple and effective Text-to-Speech (TTS) Converter built using JavaSc
 - `Save Preferences`: Save user preferences for voice, rate, pitch, and volume settings.
 - `Voice Commands`: Implement voice command support to control the TTS functionality.  
 + If you have any other ideas or improvements, feel free to contribute or open an issue to discuss them.
+
+
+## Completed Features
+✅ - `Pause and Resume`: The feature to pause and resume speech playback has been successfully implemented.
